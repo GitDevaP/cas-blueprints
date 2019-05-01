@@ -1,3 +1,5 @@
+name: centos7
+version: 1
 formatVersion: 1
 inputs:
   machine_name:
